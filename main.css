@@ -28,6 +28,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: "Teko", "sans-serif";
+  font-size: 1.2em;
 }
 
 h1,
@@ -41,6 +42,13 @@ h6 {
 
 header {
   text-align: center;
+}
+
+section {
+  margin-top: 3em;
+  margin-left: 12%;
+  margin-right: 12%;
+  color: #c9c9c8;
 }
 
 #logo {
