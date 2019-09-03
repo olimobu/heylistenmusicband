@@ -51,6 +51,11 @@ section {
   color: #c9c9c8;
 }
 
+a {
+  color: #c9c9c8;
+  text-decoration: none;
+}
+
 #logo {
   width: 60vmin;
 }
@@ -60,11 +65,6 @@ section {
   width: max-content;
   margin-right: auto;
   margin-left: auto;
-}
-
-#social a {
-  color: #c9c9c8;
-  text-decoration: none;
 }
 
 #social figure {
