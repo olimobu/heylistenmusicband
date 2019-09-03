@@ -8,10 +8,10 @@
 }
 
 @font-face {
-  font-family: "Triforce";
+  font-family: "OpenSans";
   font-style: normal;
   font-weight: 400;
-  src: local("Triforce"), url(fonts/Triforce/Triforce.woff) format("woff");
+  src: local("OpenSans"), url(fonts/OpenSans/OpenSans-Regular.woff) format("woff");
 }
 
 /* RESET */
@@ -24,11 +24,7 @@ body {
   margin: 0;
   background-color: #00263a;
   height: 100%;
-  margin: 0;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  font-family: "Teko", "sans-serif";
-  font-size: 1.2em;
+  font-family: "OpenSans", "sans-serif";
 }
 
 h1,
@@ -37,6 +33,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: "Teko", "sans-serif";
   color: #00bbdc;
 }
 
@@ -45,6 +42,7 @@ header {
 }
 
 section {
+  max-width: 1080px;
   margin-top: 3em;
   margin-left: 12%;
   margin-right: 12%;
