@@ -24,6 +24,7 @@ html {
 body {
   margin: 0;
   background-color: #00263a;
+  color: #c9c9c8;
   height: 100%;
   font-family: "OpenSans", "sans-serif";
 }
@@ -36,7 +37,6 @@ h5,
 h6 {
   font-family: "Teko", "sans-serif";
   font-weight: inherit;
-  color: #00bbdc;
 }
 
 header {
@@ -51,11 +51,10 @@ section {
   margin-top: 3em;
   padding-left: 1em;
   padding-right: 1em;
-  color: #c9c9c8;
 }
 
 a {
-  color: #c9c9c8;
+  color: #00bbdc;
   text-decoration: none;
 }
 
