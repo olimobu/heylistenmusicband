@@ -4,7 +4,7 @@ window.onload = function() {
     document.getElementById("about_one").innerText =
       "We are a cover band from Málaga (Spain) formed by María García (piano), Bego Ramos (violin) and Oliver Moya (clarinet), born with the aim of spreading video game, movie and anime music.";
     document.getElementById("about_two").innerText =
-      "Since our first concert in 2017, we have played in a multitude of events throughout the geography of Malaga (Polo Digital for the University of Malaga and Glovalues , White and Black Night for the City Council of Malaga, El Corte Inglés, Marbecon, RinconGo, AlhaurínGo and Level Up!), as well as outside of it (Jerez Manga Convention, FicZone + Granada Gaming Festival, LucenaGo and MarchenaGo).";
+      "Since our first concert in 2017, we have played in a multitude of events throughout the geography of Malaga (Polo Digital for the University of Malaga and Glovalues , White and Black Night for the City Council of Malaga, El Corte Inglés, Marbecon, RinconGo, AlhaurinGo, Artsenal and Level Up!), as well as outside of it (Jerez Manga Convention, FicZone + Granada Gaming Festival, LucenaGo and MarchenaGo).";
     document.getElementById("about_three").innerText =
       "If you are interested in us to play at your event (convention, festival, wedding ...) do not hesitate to contact us by email or a private message on your preferred social network.";
     document.getElementById("about_four").innerText =
