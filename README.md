@@ -1,3 +1,2 @@
-# HEY, LISTEN!
-# Video game, Movie & Anime Music Cover Band
-# Official Website
+# heylistenmusicband
+ Band Website
