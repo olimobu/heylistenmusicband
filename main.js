@@ -9,8 +9,12 @@ window.onload = function() {
       "If you are interested in us to play at your event (convention, festival, wedding ...) do not hesitate to contact us by email or a private message on your preferred social network.";
     document.getElementById("about_four").innerText =
       "We stream our rehearses on Twitch weekly and upload content from them and our concerts to YouTube, Instagram, Twitter and Facebook.";
-    document.getElementById("about_five").innerText = 
+    document.getElementById("about_five").innerText =
     "With the coronavirus crisis we are less active, but both Maria and Oliver often stream on Twitch from their personal channels. And we've produced and released our first video game cover album!";
+    document.getElementById("album2020").innerText =
+    "Our first CD (2020)";
+    document.getElementById("polo2017").innerText =
+    "Concert at the Polo Digital from Malaga (2017)";
   }
   /* Introducir año actual en la información del Copyright */
   var date = new Date();
