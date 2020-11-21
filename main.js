@@ -10,11 +10,7 @@ window.onload = function() {
     document.getElementById("about_four").innerText =
       "We stream our rehearses on Twitch weekly and upload content from them and our concerts to YouTube, Instagram, Twitter and Facebook.";
     document.getElementById("about_five").innerText = 
-    "With the coronavirus crisis we are less active, but both <a
-    href = 'https://www.twitch.tv/magape_pianist'
-    target = '_blank' > María < /a> and <a
-    href = 'https://www.twitch.tv/olimobu'
-    target = '_blank' > Oliver < /a> often stream on Twitch from their personal channels. And we have produced and released our first video game cover album!";
+    "With the coronavirus crisis we are less active, but both Maria and Oliver often stream on Twitch from their personal channels. And we've produced and released our first video game cover album!";
   }
   /* Introducir año actual en la información del Copyright */
   var date = new Date();
