@@ -17,7 +17,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="facebook-square-brands.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -50,10 +50,11 @@
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0" />
   <path
      fill="currentColor"
      d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"
      id="path2"
-     style="fill:#00bbdc;fill-opacity:1" />
+     style="fill:#f27d4e;fill-opacity:1" />
 </svg>
