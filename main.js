@@ -1,6 +1,6 @@
 window.onload = function() {
   /* Por defecto se muestra el texto en español, pero si el navegador no lo incluye, se muestra en inglés */
-  if (!navigator.languages.includes("es") || !navigator.languages.includes("es-ES")) {
+  if (!navigator.languages.includes("es-ES")) {
     document.getElementById("about_one").innerText =
       "We are a cover band from Málaga (Spain) formed by María García (piano), Bego Ramos (violin) and Oliver Moya (clarinet), born with the aim of spreading video game, movie and anime music.";
     document.getElementById("about_two").innerText =
