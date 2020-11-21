@@ -115,6 +115,10 @@ footer div {
 }
 
 @media only screen and (max-width: 600px) {
+  #social {
+    width: auto;
+    border-radius: initial;
+  }
   #about div {
     flex-wrap: wrap;
   }
