@@ -98,6 +98,8 @@ a {
   height: auto;
   border-radius: 5%;
   margin-top: 2em;
+  border-style: outset;
+  border-width: 8px;
 }
 
 #about figcaption {
